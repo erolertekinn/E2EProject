@@ -1,0 +1,8 @@
+01:32:06.496 [main] INFO  resources.Base - Password written
+01:32:06.500 [main] INFO  resources.Base - Restrcited User
+01:32:06.871 [main] INFO  resources.Base - Clicked to the submit button
+01:32:07.828 [main] INFO  resources.Base - Navigated to HomePage
+01:32:08.313 [main] INFO  resources.Base - Navigated to LoginPage
+01:32:08.465 [main] INFO  resources.Base - E-mail written
+01:32:08.572 [main] INFO  resources.Base - Password written
+01:32:08.572 [main] INFO  resources.Base - Non restricted user

@@ -1,0 +1,8 @@
+20:33:43.917 [main] INFO  resources.Base - Clicked to the submit button
+20:33:45.329 [main] INFO  resources.Base - Navigated to HomePage
+20:33:46.718 [main] INFO  resources.Base - Navigated to LoginPage
+20:33:47.018 [main] INFO  resources.Base - E-mail written
+20:33:47.321 [main] INFO  resources.Base - Password written
+20:33:47.322 [main] INFO  resources.Base - Non restricted user
+20:33:47.623 [main] INFO  resources.Base - Clicked to the submit button
+20:33:48.251 [main] INFO  resources.Base - Teardown driver

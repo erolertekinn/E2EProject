@@ -1,0 +1,8 @@
+23:24:27.185 [TestNG] INFO  resources.Base - Driver is initialized
+23:24:33.621 [TestNG] INFO  resources.Base - Navigated to HomePage
+23:24:34.565 [TestNG] INFO  resources.Base - Navigated to HomePage
+23:24:35.189 [TestNG] INFO  resources.Base - Navigation Bar is displayed
+23:24:40.989 [TestNG] INFO  resources.Base - Teardown driver
+23:24:41.665 [TestNG] INFO  resources.Base - Restrcited User
+23:24:47.537 [TestNG] INFO  resources.Base - Non restricted user
+23:24:49.643 [TestNG] INFO  resources.Base - Driver is closed successfully
