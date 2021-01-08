@@ -21,7 +21,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 public class Base {
 	public static WebDriver driver;
 	public Properties prop;
-
+	
 	public WebDriver initializeDriver() throws IOException {
 
 		prop = new Properties();
